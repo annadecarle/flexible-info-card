@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+  background-color: #444
+  font-family: Open Sans
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 1.5rem
+  padding: .5rem 1rem 1.6rem 5rem
+  width: 24rem 16rem 5rem
+}
