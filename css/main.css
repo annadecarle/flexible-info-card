@@ -9,7 +9,8 @@ html {
 }
 
 body {
-  margin: 1.5rem
+  display: flex;
+  /* margin: 1.5rem
   padding: .5rem 1rem 1.6rem 5rem
-  width: 24rem 16rem 5rem
+  width: 24rem 16rem 5rem */
 }
